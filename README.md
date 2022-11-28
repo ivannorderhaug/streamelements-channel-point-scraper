@@ -2,7 +2,7 @@
 The purpose of this application is to retrieve all the usernames and points from the Streamelements API and save it in a simple readable and reuseable format. This application is custom made for the channel owner of https://www.twitch.tv/roshtein and will only work with that channel. 
 
 ## Installation
-Simply install it from the releases tab or by clicking on this link: [download](https://github.com/ivannorderhaug/streamelements-channel-point-scraper/releases/tag/Release)
+Simply install it from the releases tab or by clicking on this link: [download](https://github.com/ivannorderhaug/streamelements-channel-point-scraper/releases/download/Release/SCPS.exe)
 
 For those of you who want to build it yourself, download Go version 19.3 from [https://go.dev/doc/install](https://go.dev/doc/install).
 
