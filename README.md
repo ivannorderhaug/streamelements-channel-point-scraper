@@ -21,6 +21,8 @@ go build .\cmd\main.go
 ## Usage
 Run the executeable and it will do it's magic. 
 
+![image](https://github.com/ivannorderhaug/streamelements-channel-point-scraper/blob/main/usage.PNG?raw=true)
+
 The data retrieved will be saved to a file called 'users.json' and will be located in the same directory as the executeable.
 
 An example of how the data will look is as follows:
